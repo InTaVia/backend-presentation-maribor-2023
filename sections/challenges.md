@@ -1,4 +1,4 @@
-#### To come
+#### available as demonstrator only
 * data validation via SHACL<!-- .element: class="fragment" -->
 * data ingestion workflow via GitHub<!-- .element: class="fragment" -->
 * prefect pipelines to commit to source-data repo<!-- .element: class="fragment" -->
