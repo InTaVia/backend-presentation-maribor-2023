@@ -46,4 +46,4 @@
 
 #### The Knowledgegraph as SNA
 
-![Intavia SNA](images/analysis_charts/sna_screenshot_2023-07-06.png)<!-- .element: width="1000" -->
+![Intavia SNA](images/intavia_graph_2023-10-18.png)<!-- .element: height="700" -->
